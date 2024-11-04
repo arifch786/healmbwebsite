@@ -3,7 +3,6 @@ import vector from "../assets/Vector.png";
 
 const FAQ = () => {
     const [activeIndex, setActiveIndex] = useState(null);
-
     const faqs = [
         {
             question: "What is HealMindBody?",
