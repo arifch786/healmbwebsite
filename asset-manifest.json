@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/healmbwebsite/static/css/main.23981f65.css",
+    "main.js": "/healmbwebsite/static/js/main.3bba8708.js",
+    "static/js/453.d63f3e29.chunk.js": "/healmbwebsite/static/js/453.d63f3e29.chunk.js",
+    "static/media/pic4.jpg": "/healmbwebsite/static/media/pic4.1faf34ceb74ab85c5ab9.jpg",
+    "static/media/pic2.jpg": "/healmbwebsite/static/media/pic2.be3aff2cdd45aa407f95.jpg",
+    "static/media/pic3.jpg": "/healmbwebsite/static/media/pic3.0e3e691c1646fd5a1f42.jpg",
+    "static/media/pic1.jpg": "/healmbwebsite/static/media/pic1.93aaf641b921fe1b7f41.jpg",
+    "static/media/Group 405.png": "/healmbwebsite/static/media/Group 405.493ef7b9aee67e1f4d71.png",
+    "static/media/logohmb.svg": "/healmbwebsite/static/media/logohmb.cc311602219bdeb9b8ab0e85398eba53.svg",
+    "static/media/hero.jpg": "/healmbwebsite/static/media/hero.db5b54d0cdbb086fe582.jpg",
+    "static/media/Vector.png": "/healmbwebsite/static/media/Vector.a15bc81fc25e9aced44f.png",
+    "index.html": "/healmbwebsite/index.html",
+    "main.23981f65.css.map": "/healmbwebsite/static/css/main.23981f65.css.map",
+    "main.3bba8708.js.map": "/healmbwebsite/static/js/main.3bba8708.js.map",
+    "453.d63f3e29.chunk.js.map": "/healmbwebsite/static/js/453.d63f3e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23981f65.css",
+    "static/js/main.3bba8708.js"
+  ]
+}
